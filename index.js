@@ -3,7 +3,7 @@ const Discord = require('discord.js');
 const Client = require('./client/Client');
 const {
 	prefix,
-	token,
+	token, ODI1Nzc2NzU2MDE5MDM2MTkw.YGC2iA.BzSkC4GrBTkzum0fvxLPfkTbiQc
 } = require('./config.json');
 
 const client = new Client();
